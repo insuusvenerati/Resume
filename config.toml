@@ -4,6 +4,7 @@ publishdir = "public"
 baseurl = "https://insuusvenerati.github.io/resume/"
 googleAnalytics = ""
 theme = "hugo-vitae"
+title = "Sean Norwood"
 
 [params]
   author = "Sean Norwood"
