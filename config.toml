@@ -1,3 +1,27 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "en-US"
+layoutdir = "layouts"
+publishdir = "public"
+baseurl = "http://example.com/"
+googleAnalytics = ""
+theme = "hugo-vitae"
+
+[params]
+  author = "Sean Norwood"
+  title = "Sean Norwood's Resume"
+  description = "Sean Norwood's Awesome Resume"
+  avatar = "866898.png"
+  email = "norwood.sean@gmail.com"
+  email_full = "mailto:norwood.sean@gmail.com"
+  website = "git.io/sustain"
+  website_full = "https://demo.nurlan.co/hugo-sustain/"
+  github = "insuusvenerati"
+  twitter = "stiforr"
+  tel = "8506370332"
+  tel_full = "+18506370332"
+  address = "1016 Peakview Drive"
+  postcode = "32514"
+  city = "Pensacola"
+  country = "USA"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []

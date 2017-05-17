@@ -1,0 +1,15 @@
+name: Education
+source:
+  - title: Diploma
+    univ: B.T. Washington High School
+    place: Pensacola, FL
+    date: 2000 to 2004
+    type: High School
+    description: Te dicit scripta nec, nec illud decore partem et.
+
+  - title: Computer Eng
+    univ: Pensacola State College
+    place: Pensacola, FL
+    date: 2004 to 2006
+    type: dissertation
+    description: Te dicit scripta nec, nec illud decore partem et.
