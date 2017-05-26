@@ -1,11 +1,11 @@
 name: Skills
 title: Platforms
 source:
-  - name: [Microsoft Windows]
+  - name: [Microsoft Windows, Linux, MacOS]
     stars: 5
 
   - name: [Java, Python, PHP, Git]
-    stars: 4
+    stars: 2
 
   - name: [HTML/CSS3, Javascript]
-    stars: 1
+    stars: 2
