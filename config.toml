@@ -1,5 +1,6 @@
 languageCode = "en-US"
 layoutdir = "layouts"
+contentdir = "data"
 publishdir = "public"
 baseurl = "http://resume.stiforr.cf"
 googleAnalytics = ""
