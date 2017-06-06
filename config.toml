@@ -1,7 +1,7 @@
 languageCode = "en-US"
 layoutdir = "layouts"
 publishdir = "public"
-baseurl = "https://insuusvenerati.github.io/resume/"
+baseurl = "http://resume.stiforr.cf"
 googleAnalytics = ""
 theme = "hugo-vitae"
 title = "Sean Norwood"
